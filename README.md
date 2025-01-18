@@ -1,6 +1,5 @@
 # itmaterialspoint
-
-A new Flutter project.
+for IT resources download and view pdfs resources 
 
 ## Getting Started
 
